@@ -15,3 +15,12 @@ UI tool
 ===
 - to build immutable model
 - to create functions that modify the immutable model
+
+FRP could play an important role here
+===
+
+
+Immutable model as stream
+===
+- Components act upon the stream
+-`yada yada
